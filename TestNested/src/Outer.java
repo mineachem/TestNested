@@ -20,7 +20,10 @@ public class Outer
       } 
     } 
     
+    
     public static void main(String[] args) {
+    	
+    	System.out.println("hello world");
 		Outer obj=new Outer();
 		obj.show();
 	}
